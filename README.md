@@ -8,7 +8,7 @@
 
 詳見 pull request #1
 
-```
+```markdown
 用 vite + vue + scss 建立一個簡單的網站
 
 有登入頁、登入後的歡迎頁、關於我們這三個頁面
