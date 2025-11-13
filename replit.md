@@ -1,4 +1,6 @@
-# 開發規範
+# simple-website-with-specific-context-path-and-rule Replit AI 規範
+
+## 開發規範
 
 1. **程式碼品質**
    - 所有程式碼必須包含函式級註解（說明用途、參數、回傳值）
