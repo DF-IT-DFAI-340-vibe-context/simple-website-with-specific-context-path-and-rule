@@ -22,7 +22,7 @@
 
 ### 建立規範
 
-在專案建置完畢後，處理以下 prmopt
+在專案建置完畢後，處理以下 prmopt（詳見 pull request #2）
 
 <pre>
 新增 `replit.md` 和 `.github/copilot-instructions.md`
