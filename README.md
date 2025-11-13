@@ -13,10 +13,8 @@
 專案使用環境變數來區分正式與測試環境：
 
 - **測試環境** (`.env.development`)
-  - `VITE_CONTEXT_PATH=/`
   
 - **正式環境** (`.env.production`)
-  - `VITE_CONTEXT_PATH=/foo/bar`
 
 ## 技術棧
 
@@ -69,9 +67,6 @@ npm run preview
 ├── .env.production         # 正式環境配置
 ├── src/
 │   ├── views/             # 頁面元件
-│   │   ├── Login.vue      # 登入頁
-│   │   ├── Welcome.vue    # 歡迎頁
-│   │   └── AboutUs.vue    # 關於我們頁
 │   ├── router/            # 路由配置
 │   │   └── index.js       # Vue Router 設定
 │   ├── App.vue            # 根元件
@@ -94,7 +89,4 @@ npm run preview
 - `/welcome` - 歡迎頁面（需要登入）
 - `/about` - 關於我們頁面
 
-## 授權
-
-MIT
 
